@@ -1,8 +1,11 @@
 <h1> Age Prediction App</h1>
 <h3>Created Using Sklearn Linear regression and Plotly</h3>
 <hr>
-<h1>Preview at:</h1>
+<hr>
+<h1>Visit our website at:<h1>
+
 [AgeToHeight Predictor](https://agepredictor.herokuapp.com/)
+
 <hr>
 <h1> Screenshots:</h1>
 <img src='ss1.PNG'>
