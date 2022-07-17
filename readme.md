@@ -1,15 +1,15 @@
-# Age Prediction App
+<h1> Age Prediction App</h1>
 <h3>Created Using Sklearn Linear regression and Plotly</h3>
 <hr>
-# Preview at:
+<h1>Preview at:</h1>
 [AgeToHeight Predictor](https://agepredictor.herokuapp.com/)
 <hr>
-# Screenshots
+<h1> Screenshots:</h1>
 <img src='ss1.PNG'>
 <img src='ss2.PNG'>
 <img src='ss3.PNG'>
 <hr>
-# How to use it locally:
+<h1> How to use it locally:</h1>
 <ul>
 <li>Clone the project locally</li>
 <li>Run the <b>./venv/bin/activate</b> command</li>
